@@ -1,0 +1,21 @@
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\youy\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\youy\Desktop\picture game\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\youy\Desktop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\youy\Desktop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\youy\Documents\GitHub\Scrum-Develop\picture game\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
